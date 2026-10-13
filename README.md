@@ -66,3 +66,4 @@ Vull aprendre més sobre:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-El%20teu%20perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EL_TEU_PERFIL)
 [![Correu](https://img.shields.io/badge/Correu-el--teu--correu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:el-teu-correu@exemple.com)
+
