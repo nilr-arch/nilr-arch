@@ -58,7 +58,7 @@ Vull aprendre més sobre:
 
 - Treballar com a tècnic de sistemes microinformàtics i xarxes.
 - Continuar formant-me després del cicle en l'àmbit de la informàtica.
-- Mantenir-me actualitzat en les tecnologies del sector.
+- Mantenir-me actualitzat en les tecnologies del meu sector.
 
 ## Contacte
 
